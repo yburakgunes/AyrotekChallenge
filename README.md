@@ -35,8 +35,7 @@ password: root
 2. Databases and user information needs to be created according to given information. This is not a necessity you can change these
 information from application.yml files.
 
-3. Start both services and connect them through http://localhost:8080/swagger-ui/index.html and 
-4. http://localhost:8081/swagger-ui/index.html
+3. Start both services and connect them through http://localhost:8080/swagger-ui/index.html and http://localhost:8081/swagger-ui/index.html
 
 
 Authors
