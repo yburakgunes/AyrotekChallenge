@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      database: "taxcalculationdb"
+      username: ayrotax
+      password: ayrotek123!
+      host: localhost
+      port: 27017
+server:
+  port: 8081
