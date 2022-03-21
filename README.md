@@ -1,4 +1,4 @@
-AYROTEKCHALLENGE
+AYROTEK CHALLENGE
 
 
 This project helps you to calculate the prices of product with appropriate tax rate.
